@@ -215,3 +215,7 @@
 2022-07-26 19:27:25,766:INFO:Test_0045_SearchCustomerByName:****starting Search Customer By Name Test ***
 2022-07-26 19:27:26,728:INFO:Test_0045_SearchCustomerByName:****starting search customer by Name
 2022-07-26 19:27:30,106:INFO:Test_0045_SearchCustomerByName:***TC_SearchCustomerByName_005 is Finished***
+2022-07-26 20:49:16,686:INFO:Test_001_login:************verify home page Title********* 
+2022-07-26 20:49:21,777:INFO:Test_001_login:*******Home page Ttitle test is Failed******
+2022-07-26 20:49:23,394:INFO:Test_001_login:*******Verifying the login test******
+2022-07-26 20:49:35,958:INFO:Test_001_login:*******login test is passed******
