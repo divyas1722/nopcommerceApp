@@ -1,2 +1,0 @@
-INFO     Test_001_login:test_login.py:19 ************verify home page Title********* 
-INFO     Test_001_login:test_login.py:26 *******Home page Ttitle test is passed******

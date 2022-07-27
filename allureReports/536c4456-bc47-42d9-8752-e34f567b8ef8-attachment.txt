@@ -1,5 +1,0 @@
-[32mINFO    [0m Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:20 *******Test_004_SearchCustomerByEmail******
-[32mINFO    [0m Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:27 ****login Successfull****
-[32mINFO    [0m Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:28 ****starting Search Customer By Email Test ***
-[32mINFO    [0m Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:32 ****starting search customer by EmailID
-[32mINFO    [0m Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:39 ***TC_SearchCustomerByEmail_004 is Finished***

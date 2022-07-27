@@ -1,2 +1,0 @@
-[32mINFO    [0m Test_001_login:test_login.py:27 ************verify home page Title********* 
-[32mINFO    [0m Test_001_login:test_login.py:38 *******Home page Ttitle test is Failed******

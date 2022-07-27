@@ -1,5 +1,0 @@
-INFO     Test_0045_SearchCustomerByName:test_searchCustomerByName.py:21 *******Test_005_SearchCustomerByName******
-INFO     Test_0045_SearchCustomerByName:test_searchCustomerByName.py:28 ****login Successfull****
-INFO     Test_0045_SearchCustomerByName:test_searchCustomerByName.py:29 ****starting Search Customer By Name Test ***
-INFO     Test_0045_SearchCustomerByName:test_searchCustomerByName.py:33 ****starting search customer by Name
-INFO     Test_0045_SearchCustomerByName:test_searchCustomerByName.py:41 ***TC_SearchCustomerByName_005 is Finished***

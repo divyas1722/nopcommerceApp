@@ -1,7 +1,0 @@
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:22 *******Test_003_AddCustomer******
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:29 ****login Successfull****
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:30 ****starting Add Customer Test ***
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:36 ****Providing Customer infor****
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:51 ****Add customer validation started****
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:56 ***Add customer test passed ***
-[32mINFO    [0m Test_003_AddCustomer:test_addCustomer.py:62 ***Ending Add customer test****

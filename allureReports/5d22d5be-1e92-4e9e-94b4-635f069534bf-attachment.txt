@@ -1,2 +1,0 @@
-INFO     Test_001_login:test_login.py:36 *******Verifying the login test******
-INFO     Test_001_login:test_login.py:47 *******login test is passed******

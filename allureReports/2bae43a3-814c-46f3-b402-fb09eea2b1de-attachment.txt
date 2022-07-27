@@ -1,8 +1,0 @@
-INFO     Test_002_DDT__Login:test_login_ddt.py:19 *******Verifying the login DDT test******
-INFO     Test_002_DDT__Login:test_login_ddt.py:38 ***passed***
-INFO     Test_002_DDT__Login:test_login_ddt.py:50 ***passed***
-INFO     Test_002_DDT__Login:test_login_ddt.py:50 ***passed***
-INFO     Test_002_DDT__Login:test_login_ddt.py:50 ***passed***
-INFO     Test_002_DDT__Login:test_login_ddt.py:53 ****login DDT passed***
-INFO     Test_002_DDT__Login:test_login_ddt.py:61 *******End of login DDT test****
-INFO     Test_002_DDT__Login:test_login_ddt.py:62 *****Completed test_002_login_DDT****
