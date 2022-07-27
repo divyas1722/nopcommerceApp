@@ -1,0 +1,8 @@
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:20 *******Test_007_Export to Excel All ******
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:27 ****login Successfull****
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:28 ****starting ExportToExcelAll Customers Test ***
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:32 *****starting Export option*****
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:37 *****Verify file downloaded******
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:39 *****verify downloaded file data*******
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:46 ***File deleted from folder***
+[32mINFO    [0m Test_006_ExportToExcelSelected:test_exportToExcelAll.py:47 ***TC_ExporToExcelAll_007 is Finished***

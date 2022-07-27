@@ -1874,3 +1874,26 @@ webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 ###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
 
 1656807952495	geckodriver	INFO	Listening on 127.0.0.1:61959
+1656971722704	geckodriver	INFO	Listening on 127.0.0.1:50898
+1656971725776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\prade\\AppData\\Local\\Temp\\rust_mozprofileV4mJDk"
+1656971726262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prade\\AppData\\Local\\Temp\\rust_mozprofileV4mJDk\\search.json.mozlz4", (void 0)))
+1656971727979	Marionette	INFO	Listening on port 50935
+Read port: 50935
+1656971728053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656971729158	Marionette	INFO	Stopped listening on port 50935
+1656971730714	geckodriver	INFO	Listening on 127.0.0.1:50962
+1656971733797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\prade\\AppData\\Local\\Temp\\rust_mozprofilexC7tyS"
+1656971734317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\prade\\AppData\\Local\\Temp\\rust_mozprofilexC7tyS\\search.json.mozlz4", (void 0)))
+1656971736126	Marionette	INFO	Listening on port 50998
+Read port: 50998
+1656971736173	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656971744051	Marionette	INFO	Stopped listening on port 50998
+[Parent 13512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+

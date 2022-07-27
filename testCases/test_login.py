@@ -1,4 +1,6 @@
+import allure
 import pytest
+from allure_commons.types import AttachmentType
 from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig
@@ -11,7 +13,13 @@ class Test_001_login():
     password = ReadConfig.getPassWord()
     logger = LogGen.loggen()
 
-
+    @pytest.fixture()
+    def log_on_failure(request, get_browser):
+        yield
+        item = request.node
+        driver = get_browser
+        if item.rep_call.failed:
+            allure.attach(driver.get_screenshot_as_png(), name="dologin", attachment_type=AttachmentType.PNG)
     @pytest.mark.sanity
     @pytest.mark.regression
     def test_homePageTitle(self,setup):
@@ -20,7 +28,7 @@ class Test_001_login():
         self.driver = setup
         self.driver.get(self.baseURL)
         act_title = self.driver.title
-        if act_title ==  "Your store. Login":
+        if act_title ==  "Your store. Logi":
             assert True
             self.driver.close()
             self.logger.info("*******Home page Ttitle test is passed******")

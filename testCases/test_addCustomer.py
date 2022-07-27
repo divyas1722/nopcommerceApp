@@ -2,7 +2,9 @@ import random
 import string
 import time
 
+import allure
 import pytest
+from allure_commons.types import AttachmentType
 
 from pageObjects.AddCustomerPage import AddCustomer
 from pageObjects.LoginPage import LoginPage
@@ -47,6 +49,7 @@ class Test_003_AddCustomer():
         self.addcust.setManagerOfVendor("Vendor 2")
         self.addcust.setAdminContent("This is for testing")
         self.addcust.clickOnSave()
+        allure.attach(self.driver.get_screenshot_as_png(),name="addcustomer",attachment_type=AttachmentType.PNG)
 
         self.logger.info("****Add customer validation started****")
         self.msg = self.driver.find_element_by_tag_name("body").text

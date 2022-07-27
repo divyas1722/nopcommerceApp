@@ -1,0 +1,217 @@
+2022-07-05 02:43:59,879:INFO:Test_001_login:************verify home page Title********* 
+2022-07-05 02:44:00,783:INFO:Test_001_login:*******Home page Ttitle test is passed******
+2022-07-05 02:44:02,748:INFO:Test_001_login:*******Verifying the login test******
+2022-07-05 02:44:07,966:INFO:Test_001_login:*******login test is passed******
+2022-07-12 22:38:18,837:INFO:Test_001_login:************verify home page Title********* 
+2022-07-12 22:38:19,682:INFO:Test_001_login:*******Home page Ttitle test is passed******
+2022-07-12 22:38:21,191:INFO:Test_001_login:*******Verifying the login test******
+2022-07-12 22:38:23,750:INFO:Test_001_login:*******login test is passed******
+2022-07-12 23:05:37,118:INFO:Test_003_AddCustomer:*******Test_003_AddCustomer******
+2022-07-12 23:05:39,593:INFO:Test_003_AddCustomer:****login Successfull****
+2022-07-12 23:05:39,593:INFO:Test_003_AddCustomer:****starting Add Customer Test ***
+2022-07-12 23:05:44,070:INFO:Test_003_AddCustomer:****Providing Customer infor****
+2022-07-12 23:05:58,655:INFO:Test_003_AddCustomer:****Add customer validation started****
+2022-07-12 23:05:58,929:INFO:Test_003_AddCustomer:***Add customer test passed ***
+2022-07-12 23:05:59,180:INFO:Test_003_AddCustomer:***Ending Add customer test****
+2022-07-12 23:06:00,899:INFO:Test_006_ExportToExcelSelected:*******Test_007_Export to Excel All ******
+2022-07-12 23:06:00,899:INFO:Test_006_ExportToExcelSelected:*******Test_007_Export to Excel All ******
+2022-07-12 23:06:03,366:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-12 23:06:03,366:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-12 23:06:03,366:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelAll Customers Test ***
+2022-07-12 23:06:03,366:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelAll Customers Test ***
+2022-07-12 23:06:05,284:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-12 23:06:05,284:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-12 23:06:09,861:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-12 23:06:09,861:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-12 23:06:09,862:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-12 23:06:09,862:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-12 23:06:12,263:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-12 23:06:12,263:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-12 23:06:12,263:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelAll_007 is Finished***
+2022-07-12 23:06:12,263:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelAll_007 is Finished***
+2022-07-12 23:06:16,326:INFO:Test_006_ExportToExcelSelected:*******Test_006_Export to Excel Selected ******
+2022-07-12 23:06:16,326:INFO:Test_006_ExportToExcelSelected:*******Test_006_Export to Excel Selected ******
+2022-07-12 23:06:21,438:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-12 23:06:21,438:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-12 23:06:21,440:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelSelected Customers Test ***
+2022-07-12 23:06:21,440:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelSelected Customers Test ***
+2022-07-12 23:06:23,168:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-12 23:06:23,168:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-12 23:06:44,714:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-12 23:06:44,714:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-12 23:06:44,715:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-12 23:06:44,715:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-12 23:06:44,750:INFO:Test_006_ExportToExcelSelected:***data Matches***
+2022-07-12 23:06:44,750:INFO:Test_006_ExportToExcelSelected:***data Matches***
+2022-07-12 23:06:44,751:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-12 23:06:44,751:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-12 23:06:44,752:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-12 23:06:44,752:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-12 23:06:47,703:INFO:Test_008_ExportToExcelSelected_ddt:*******Test_006_Export to Excel Selected_ddt ******
+2022-07-12 23:06:52,028:INFO:Test_008_ExportToExcelSelected_ddt:****login Successfull****
+2022-07-12 23:06:52,029:INFO:Test_008_ExportToExcelSelected_ddt:****starting ExportToExcelSelected_ddt Customers Test ***
+2022-07-12 23:06:53,858:INFO:Test_008_ExportToExcelSelected_ddt:*****starting Export option*****
+2022-07-12 23:07:44,521:INFO:Test_008_ExportToExcelSelected_ddt:*** choosed checkboxes are selected***
+2022-07-12 23:07:49,190:INFO:Test_008_ExportToExcelSelected_ddt:*****Verify file downloaded******
+2022-07-12 23:07:51,197:INFO:Test_008_ExportToExcelSelected_ddt:*****verify downloaded file data*******
+2022-07-12 23:07:51,263:INFO:Test_008_ExportToExcelSelected_ddt:***data Matches***
+2022-07-12 23:07:54,273:INFO:Test_008_ExportToExcelSelected_ddt:***File deleted from folder***
+2022-07-12 23:07:54,274:INFO:Test_008_ExportToExcelSelected_ddt:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-12 23:07:56,780:INFO:Test_001_login:************verify home page Title********* 
+2022-07-12 23:07:57,744:INFO:Test_001_login:*******Home page Ttitle test is passed******
+2022-07-12 23:07:59,840:INFO:Test_001_login:*******Verifying the login test******
+2022-07-12 23:08:03,849:INFO:Test_001_login:*******login test is passed******
+2022-07-12 23:08:05,931:INFO:Test_002_DDT__Login:*******Verifying the login DDT test******
+2022-07-12 23:08:14,629:INFO:Test_002_DDT__Login:***passed***
+2022-07-12 23:08:21,267:INFO:Test_002_DDT__Login:***passed***
+2022-07-12 23:08:27,142:INFO:Test_002_DDT__Login:***passed***
+2022-07-12 23:08:32,946:INFO:Test_002_DDT__Login:***passed***
+2022-07-12 23:08:32,947:INFO:Test_002_DDT__Login:****login DDT passed***
+2022-07-12 23:08:33,056:INFO:Test_002_DDT__Login:*******End of login DDT test****
+2022-07-12 23:08:33,057:INFO:Test_002_DDT__Login:*****Completed test_002_login_DDT****
+2022-07-12 23:08:35,312:INFO:Test_004_SearchCustomerByEmail:*******Test_004_SearchCustomerByEmail******
+2022-07-12 23:08:38,872:INFO:Test_004_SearchCustomerByEmail:****login Successfull****
+2022-07-12 23:08:38,872:INFO:Test_004_SearchCustomerByEmail:****starting Search Customer By Email Test ***
+2022-07-12 23:08:40,550:INFO:Test_004_SearchCustomerByEmail:****starting search customer by EmailID
+2022-07-12 23:08:44,100:INFO:Test_004_SearchCustomerByEmail:***TC_SearchCustomerByEmail_004 is Finished***
+2022-07-12 23:08:46,668:INFO:Test_0045_SearchCustomerByName:*******Test_005_SearchCustomerByName******
+2022-07-12 23:08:49,957:INFO:Test_0045_SearchCustomerByName:****login Successfull****
+2022-07-12 23:08:49,957:INFO:Test_0045_SearchCustomerByName:****starting Search Customer By Name Test ***
+2022-07-12 23:08:51,658:INFO:Test_0045_SearchCustomerByName:****starting search customer by Name
+2022-07-12 23:08:55,352:INFO:Test_0045_SearchCustomerByName:***TC_SearchCustomerByName_005 is Finished***
+2022-07-12 23:18:33,982:INFO:Test_003_AddCustomer:*******Test_003_AddCustomer******
+2022-07-12 23:18:37,944:INFO:Test_003_AddCustomer:****login Successfull****
+2022-07-12 23:18:37,945:INFO:Test_003_AddCustomer:****starting Add Customer Test ***
+2022-07-12 23:18:41,526:INFO:Test_003_AddCustomer:****Providing Customer infor****
+2022-07-12 23:18:57,175:INFO:Test_003_AddCustomer:****Add customer validation started****
+2022-07-12 23:18:57,608:INFO:Test_003_AddCustomer:***Add customer test passed ***
+2022-07-12 23:18:57,727:INFO:Test_003_AddCustomer:***Ending Add customer test****
+2022-07-12 23:33:10,486:INFO:Test_001_login:************verify home page Title********* 
+2022-07-12 23:33:11,753:INFO:Test_001_login:*******Home page Ttitle test is Failed******
+2022-07-12 23:33:13,998:INFO:Test_001_login:*******Verifying the login test******
+2022-07-12 23:33:17,976:INFO:Test_001_login:*******login test is passed******
+2022-07-26 18:43:24,575:INFO:Test_003_AddCustomer:*******Test_003_AddCustomer******
+2022-07-26 18:43:28,887:INFO:Test_003_AddCustomer:****login Successfull****
+2022-07-26 18:43:28,889:INFO:Test_003_AddCustomer:****starting Add Customer Test ***
+2022-07-26 18:43:34,174:INFO:Test_003_AddCustomer:****Providing Customer infor****
+2022-07-26 18:43:51,885:INFO:Test_003_AddCustomer:****Add customer validation started****
+2022-07-26 18:43:52,681:INFO:Test_003_AddCustomer:***Add customer test passed ***
+2022-07-26 18:43:52,832:INFO:Test_003_AddCustomer:***Ending Add customer test****
+2022-07-26 18:43:55,050:INFO:Test_006_ExportToExcelSelected:*******Test_007_Export to Excel All ******
+2022-07-26 18:43:55,050:INFO:Test_006_ExportToExcelSelected:*******Test_007_Export to Excel All ******
+2022-07-26 18:43:59,295:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 18:43:59,295:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 18:43:59,295:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelAll Customers Test ***
+2022-07-26 18:43:59,295:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelAll Customers Test ***
+2022-07-26 18:44:01,081:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 18:44:01,081:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 18:44:05,749:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 18:44:05,749:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 18:44:05,749:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 18:44:05,749:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 18:44:07,847:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 18:44:07,847:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 18:44:07,849:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelAll_007 is Finished***
+2022-07-26 18:44:07,849:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelAll_007 is Finished***
+2022-07-26 18:44:10,305:INFO:Test_006_ExportToExcelSelected:*******Test_006_Export to Excel Selected ******
+2022-07-26 18:44:10,305:INFO:Test_006_ExportToExcelSelected:*******Test_006_Export to Excel Selected ******
+2022-07-26 18:44:14,848:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 18:44:14,848:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 18:44:14,848:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelSelected Customers Test ***
+2022-07-26 18:44:14,848:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelSelected Customers Test ***
+2022-07-26 18:44:18,030:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 18:44:18,030:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 18:44:42,149:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 18:44:42,149:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 18:44:42,150:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 18:44:42,150:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 18:44:42,174:INFO:Test_006_ExportToExcelSelected:***data Matches***
+2022-07-26 18:44:42,174:INFO:Test_006_ExportToExcelSelected:***data Matches***
+2022-07-26 18:44:42,310:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 18:44:42,310:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 18:44:42,311:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-26 18:44:42,311:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-26 18:44:44,877:INFO:Test_008_ExportToExcelSelected_ddt:*******Test_006_Export to Excel Selected_ddt ******
+2022-07-26 18:44:50,950:INFO:Test_008_ExportToExcelSelected_ddt:****login Successfull****
+2022-07-26 18:44:50,951:INFO:Test_008_ExportToExcelSelected_ddt:****starting ExportToExcelSelected_ddt Customers Test ***
+2022-07-26 18:44:53,627:INFO:Test_008_ExportToExcelSelected_ddt:*****starting Export option*****
+2022-07-26 19:03:17,509:INFO:Test_003_AddCustomer:*******Test_003_AddCustomer******
+2022-07-26 19:03:21,978:INFO:Test_003_AddCustomer:****login Successfull****
+2022-07-26 19:03:21,978:INFO:Test_003_AddCustomer:****starting Add Customer Test ***
+2022-07-26 19:03:30,025:INFO:Test_003_AddCustomer:****Providing Customer infor****
+2022-07-26 19:03:46,631:INFO:Test_003_AddCustomer:****Add customer validation started****
+2022-07-26 19:03:47,290:INFO:Test_003_AddCustomer:***Add customer test passed ***
+2022-07-26 19:03:47,418:INFO:Test_003_AddCustomer:***Ending Add customer test****
+2022-07-26 19:24:28,928:INFO:Test_003_AddCustomer:*******Test_003_AddCustomer******
+2022-07-26 19:24:33,058:INFO:Test_003_AddCustomer:****login Successfull****
+2022-07-26 19:24:33,058:INFO:Test_003_AddCustomer:****starting Add Customer Test ***
+2022-07-26 19:24:36,092:INFO:Test_003_AddCustomer:****Providing Customer infor****
+2022-07-26 19:24:50,216:INFO:Test_003_AddCustomer:****Add customer validation started****
+2022-07-26 19:24:50,349:INFO:Test_003_AddCustomer:***Add customer test passed ***
+2022-07-26 19:24:50,498:INFO:Test_003_AddCustomer:***Ending Add customer test****
+2022-07-26 19:24:53,019:INFO:Test_006_ExportToExcelSelected:*******Test_007_Export to Excel All ******
+2022-07-26 19:24:53,019:INFO:Test_006_ExportToExcelSelected:*******Test_007_Export to Excel All ******
+2022-07-26 19:24:56,074:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 19:24:56,074:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 19:24:56,074:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelAll Customers Test ***
+2022-07-26 19:24:56,074:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelAll Customers Test ***
+2022-07-26 19:24:57,076:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 19:24:57,076:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 19:24:59,439:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 19:24:59,439:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 19:24:59,440:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 19:24:59,440:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 19:25:01,468:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 19:25:01,468:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 19:25:01,468:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelAll_007 is Finished***
+2022-07-26 19:25:01,468:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelAll_007 is Finished***
+2022-07-26 19:25:04,253:INFO:Test_006_ExportToExcelSelected:*******Test_006_Export to Excel Selected ******
+2022-07-26 19:25:04,253:INFO:Test_006_ExportToExcelSelected:*******Test_006_Export to Excel Selected ******
+2022-07-26 19:25:07,216:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 19:25:07,216:INFO:Test_006_ExportToExcelSelected:****login Successfull****
+2022-07-26 19:25:07,217:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelSelected Customers Test ***
+2022-07-26 19:25:07,217:INFO:Test_006_ExportToExcelSelected:****starting ExportToExcelSelected Customers Test ***
+2022-07-26 19:25:08,576:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 19:25:08,576:INFO:Test_006_ExportToExcelSelected:*****starting Export option*****
+2022-07-26 19:25:29,457:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 19:25:29,457:INFO:Test_006_ExportToExcelSelected:*****Verify file downloaded******
+2022-07-26 19:25:29,458:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 19:25:29,458:INFO:Test_006_ExportToExcelSelected:*****verify downloaded file data*******
+2022-07-26 19:25:29,520:INFO:Test_006_ExportToExcelSelected:***data Matches***
+2022-07-26 19:25:29,520:INFO:Test_006_ExportToExcelSelected:***data Matches***
+2022-07-26 19:25:29,535:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 19:25:29,535:INFO:Test_006_ExportToExcelSelected:***File deleted from folder***
+2022-07-26 19:25:29,536:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-26 19:25:29,536:INFO:Test_006_ExportToExcelSelected:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-26 19:25:31,900:INFO:Test_008_ExportToExcelSelected_ddt:*******Test_006_Export to Excel Selected_ddt ******
+2022-07-26 19:25:35,974:INFO:Test_008_ExportToExcelSelected_ddt:****login Successfull****
+2022-07-26 19:25:35,974:INFO:Test_008_ExportToExcelSelected_ddt:****starting ExportToExcelSelected_ddt Customers Test ***
+2022-07-26 19:25:37,185:INFO:Test_008_ExportToExcelSelected_ddt:*****starting Export option*****
+2022-07-26 19:26:26,833:INFO:Test_008_ExportToExcelSelected_ddt:*** choosed checkboxes are selected***
+2022-07-26 19:26:31,222:INFO:Test_008_ExportToExcelSelected_ddt:*****Verify file downloaded******
+2022-07-26 19:26:33,234:INFO:Test_008_ExportToExcelSelected_ddt:*****verify downloaded file data*******
+2022-07-26 19:26:33,288:INFO:Test_008_ExportToExcelSelected_ddt:***data Matches***
+2022-07-26 19:26:36,296:INFO:Test_008_ExportToExcelSelected_ddt:***File deleted from folder***
+2022-07-26 19:26:36,296:INFO:Test_008_ExportToExcelSelected_ddt:***TC_ExporToExcelSelected_006 is Finished***
+2022-07-26 19:26:39,202:INFO:Test_001_login:************verify home page Title********* 
+2022-07-26 19:26:40,078:INFO:Test_001_login:*******Home page Ttitle test is Failed******
+2022-07-26 19:26:42,500:INFO:Test_001_login:*******Verifying the login test******
+2022-07-26 19:26:45,644:INFO:Test_001_login:*******login test is passed******
+2022-07-26 19:26:47,167:INFO:Test_002_DDT__Login:*******Verifying the login DDT test******
+2022-07-26 19:26:54,783:INFO:Test_002_DDT__Login:***passed***
+2022-07-26 19:27:00,855:INFO:Test_002_DDT__Login:***passed***
+2022-07-26 19:27:06,388:INFO:Test_002_DDT__Login:***passed***
+2022-07-26 19:27:12,049:INFO:Test_002_DDT__Login:***passed***
+2022-07-26 19:27:12,049:INFO:Test_002_DDT__Login:****login DDT passed***
+2022-07-26 19:27:12,147:INFO:Test_002_DDT__Login:*******End of login DDT test****
+2022-07-26 19:27:12,147:INFO:Test_002_DDT__Login:*****Completed test_002_login_DDT****
+2022-07-26 19:27:13,694:INFO:Test_004_SearchCustomerByEmail:*******Test_004_SearchCustomerByEmail******
+2022-07-26 19:27:16,200:INFO:Test_004_SearchCustomerByEmail:****login Successfull****
+2022-07-26 19:27:16,200:INFO:Test_004_SearchCustomerByEmail:****starting Search Customer By Email Test ***
+2022-07-26 19:27:17,171:INFO:Test_004_SearchCustomerByEmail:****starting search customer by EmailID
+2022-07-26 19:27:20,484:INFO:Test_004_SearchCustomerByEmail:***TC_SearchCustomerByEmail_004 is Finished***
+2022-07-26 19:27:22,915:INFO:Test_0045_SearchCustomerByName:*******Test_005_SearchCustomerByName******
+2022-07-26 19:27:25,766:INFO:Test_0045_SearchCustomerByName:****login Successfull****
+2022-07-26 19:27:25,766:INFO:Test_0045_SearchCustomerByName:****starting Search Customer By Name Test ***
+2022-07-26 19:27:26,728:INFO:Test_0045_SearchCustomerByName:****starting search customer by Name
+2022-07-26 19:27:30,106:INFO:Test_0045_SearchCustomerByName:***TC_SearchCustomerByName_005 is Finished***

@@ -1,0 +1,7 @@
+INFO     Test_003_AddCustomer:test_addCustomer.py:22 *******Test_003_AddCustomer******
+INFO     Test_003_AddCustomer:test_addCustomer.py:29 ****login Successfull****
+INFO     Test_003_AddCustomer:test_addCustomer.py:30 ****starting Add Customer Test ***
+INFO     Test_003_AddCustomer:test_addCustomer.py:36 ****Providing Customer infor****
+INFO     Test_003_AddCustomer:test_addCustomer.py:51 ****Add customer validation started****
+INFO     Test_003_AddCustomer:test_addCustomer.py:56 ***Add customer test passed ***
+INFO     Test_003_AddCustomer:test_addCustomer.py:62 ***Ending Add customer test****

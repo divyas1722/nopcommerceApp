@@ -1,0 +1,8 @@
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:20 *******Test_007_Export to Excel All ******
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:27 ****login Successfull****
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:28 ****starting ExportToExcelAll Customers Test ***
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:32 *****starting Export option*****
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:37 *****Verify file downloaded******
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:39 *****verify downloaded file data*******
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:46 ***File deleted from folder***
+INFO     Test_006_ExportToExcelSelected:test_exportToExcelAll.py:47 ***TC_ExporToExcelAll_007 is Finished***

@@ -4,7 +4,7 @@ import pytest_html
 
 def pytest_addoption(parser):
     parser.addoption(
-        "--browser_name", action="store", default="firefox"
+        "--browser_name", action="store", default="chrome"
     )
 
 @pytest.fixture()
@@ -31,3 +31,11 @@ def pytest_configure(config):
 def pytest_metadata(metadata):
     metadata.pop("JAVA_HOME", None)
     metadata.pop("Plugins", None)
+
+
+@pytest.hookimpl(hookwrapper=True, tryfirst=True)
+def pytest_runtest_makereport(item, call):
+    outcome = yield
+    rep = outcome.get_result()
+    setattr(item, "rep_" + rep.when, rep)
+    return rep

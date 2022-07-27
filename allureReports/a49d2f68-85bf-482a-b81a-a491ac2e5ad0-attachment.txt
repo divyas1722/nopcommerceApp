@@ -1,0 +1,5 @@
+INFO     Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:20 *******Test_004_SearchCustomerByEmail******
+INFO     Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:27 ****login Successfull****
+INFO     Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:28 ****starting Search Customer By Email Test ***
+INFO     Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:32 ****starting search customer by EmailID
+INFO     Test_004_SearchCustomerByEmail:test_searchCustomerByEmail.py:39 ***TC_SearchCustomerByEmail_004 is Finished***
